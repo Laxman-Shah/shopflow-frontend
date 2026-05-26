@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -71,3 +72,7 @@ export default defineConfig([
   },
 ])
 ```
+=======
+# shopflow-frontend
+This project is  a frontend code of Ecommerce Sytem shopflow
+>>>>>>> d714fc62605589c3233372dd9a82e799e5d89d4e
